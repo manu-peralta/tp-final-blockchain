@@ -1,0 +1,20 @@
+{
+  "name": "boveda-vulnerabilidades-blockchain",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Caso educativo de cinco vulnerabilidades OWASP en una boveda de ETH",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "test:vulnerable": "hardhat test test/BovedaVulnerable.test.js",
+    "test:corregida": "hardhat test test/BovedaCorregida.test.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "1.0.6",
+    "@nomiclabs/hardhat-ethers": "2.2.3",
+    "chai": "4.3.7",
+    "ethers": "5.7.2",
+    "hardhat": "2.22.18",
+    "solc": "0.8.18"
+  }
+}

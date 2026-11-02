@@ -1,0 +1,9 @@
+node_modules/
+artifacts/
+cache/
+coverage/
+.env
+*.log
+tmp/
+__pycache__/
+/informe

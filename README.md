@@ -13,4 +13,4 @@ Los tests de la versión vulnerable pasan cuando reproducen el fallo y los de la
 
 ## Documentación
 
-La descripción de la bóveda, las reglas de las pruebas, los resultados de cada caso y las referencias están en el [informe](informe/Informe.md), también disponible en [PDF](informe/Informe.pdf).
+La descripción de la bóveda, las reglas de las pruebas, los resultados de cada caso y las referencias están en el [informe](Informe.md), también disponible en el pdf adjuntado en el mail.
